@@ -17,32 +17,32 @@ Nutrition facts (per 100g):
 - [ ] Vegetarian
 - [ ] Dairy
 
-* _Ingredients:_
-  * Beef/Lamb - 0.5kg
-  * Rice - 3 cups
-  * Carrots
-  * Onions
-  * Garlic (whole bulb)
-  * Oil
-  * Spices:
-    * Cumin
-    * Black pepper
-    * Coriander
-    * Turmetic
-    * Majoram
-    * Salt
-* _Directions:_
-  1. Cut the meat into 2x2" cubes
-  2. Slice onions
-  3. Cut carrots
-  4. Turn on the pressure cooker and set it to **Meat**
-  5. Stir fry meat for 6 min
-  6. Add carrots and onions and stir fry for another 10 min
-  7. Add spices and mix it
-  8. Add washsed rice
-  9. Add boiling water ( it should cover the ingredients by 1 cm)
-  10. Put whole garlic in the middle of the pot
-  11. Close the lid and set a timer for 40 min
+## _Ingredients:_
+   * Beef/Lamb - 0.5kg
+   * Rice - 3 cups
+   * Carrots
+   * Onions
+   * Garlic (whole bulb)
+   * Oil
+   * Spices:
+     * Cumin
+     * Black pepper
+     * Coriander
+     * Turmetic
+     * Majoram
+     * Salt
+## _Directions:_
+   1. Cut the meat into 2x2" cubes
+   2. Slice onions
+   3. Cut carrots
+   4. Turn on the pressure cooker and set it to **Meat**
+   5. Stir fry meat for 6 min
+   6. Add carrots and onions and stir fry for another 10 min
+   7. Add spices and mix it
+   8. Add washsed rice
+   9. Add boiling water ( it should cover the ingredients by 1 cm)
+   10. Put whole garlic in the middle of the pot
+   11. Close the lid and set a timer for 40 min
       
 ![Plov](https://cdn.momsdish.com/wp-content/uploads/2021/06/Uzbek-Plov-Recipe-04-600x900.jpg)
 
@@ -54,11 +54,14 @@ Nutrition facts (per 100g):
 
 ## _**Converter kg to lb (in Python):**_
  
-weight = int(input("What is the weight in kg? "))
-weight_lbs = weight*2.205
-print("The resulting weight in lbs will be {} lbs".format(weight_lbs))
+ weight = int(input("What is the weight in kg? "))
+ 
+ weight_lbs = weight*2.205
+ 
+ print("The resulting weight in lbs will be {} lbs".format(weight_lbs))
 
-Safety requirements [^1]
+
+### Safety requirements [^1]
 [^1]: Make sure to follow all the safety rules during cooking process.
 
 
