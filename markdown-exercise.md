@@ -12,6 +12,11 @@ Nutrition facts (per 100g):
 | Carbs | 76g |
 | Fat | 2g |
 
+- [x] Meat
+- [x] Gluten-free
+- [ ] Vegetarian
+- [ ] Dairy
+
 * _Ingredients:_
   * Beef/Lamb - 0.5kg
   * Rice - 3 cups
@@ -46,4 +51,16 @@ __History of the dish:__
 
 >Uzbekistan, situated at the crossroads of the Silk Road, played a pivotal role in the evolution of Plov. The dish not only became an integral part of Uzbek cuisine but also a symbol of hospitality, celebration, and cultural identity. To this day, preparing Plov is a revered art form, often passed down through generations, and its consumption is accompanied by elaborate customs and rituals.
 [Source](https://medium.com/@s.m.shahinul.islam/from-silk-road-treasures-to-culinary-delight-the-tale-of-uzbek-plov-d5159a2605c5)
-     
+
+ Converter kg to lb (in Python):
+ 
+weight = int(input("What is the weight in kg? "))
+weight_lbs = weight*2.205
+print("The resulting weight in lbs will be {} lbs".format(weight_lbs))
+
+Safety requirements [^1]
+[^1]: Make sure to follow all the safety rules during cooking process.
+
+
+
+  
