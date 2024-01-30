@@ -53,13 +53,13 @@ Nutrition facts (per 100g):
 [Source](https://medium.com/@s.m.shahinul.islam/from-silk-road-treasures-to-culinary-delight-the-tale-of-uzbek-plov-d5159a2605c5)
 
 ## _**Converter kg to lb (in Python):**_
- 
+ ```
  weight = int(input("What is the weight in kg? "))
  
  weight_lbs = weight*2.205
  
  print("The resulting weight in lbs will be {} lbs".format(weight_lbs))
-
+```
 
 ### Safety requirements [^1]
 [^1]: Make sure to follow all the safety rules during cooking process.
